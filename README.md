@@ -10,9 +10,36 @@ In order to run this demo, three pieces of information are required:
 
 1. Ethereum client (or node) endpoint. The simplest thing to do is 
 [request a free access token](https://infura.io/register.html) from Infura.
-2. A wallet file. This can be generated using the web3j 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. A wallet file. This can be generated using the web3j 
 [command line tools](https://docs.web3j.io/command_line.html) by running the command:
-3.  Some Ether. This can be requested from the [Rinkeby Faucet](https://www.rinkeby.io/#faucet).
+4.  Some Ether. This can be requested from the [Rinkeby Faucet](https://www.rinkeby.io/#faucet).
 
 - To create a wallet file, run the command:
 ```aidl
