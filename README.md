@@ -8,8 +8,6 @@ greeting message can be read and modified in the smart contract.
 
 In order to run this demo, three pieces of information are required:
 
-1. Ethereum client (or node) endpoint. The simplest thing to do is 
-[request a free access token](https://infura.io/register.html) from Infura.
 
 
 
